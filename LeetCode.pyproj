@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>05806292-770b-4fe6-af04-9f69e8bff8f4</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>Contains Duplicate III.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>LeetCode</Name>
+    <RootNamespace>LeetCode</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="4Sum.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="add_two_numbers.py" />
+    <Compile Include="Contains Duplicate III.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Decode Ways.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Distinct Subsequences.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Divide Two Integers.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Expression Add Operators.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="First Missing Positive.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Generate Parentheses.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Interleaving String.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="JumpGameII.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Length of Last Word.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Longest Substring Without Repeating Characters.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="longestPalindrome.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Median_Of_Two_Sorted_Arrays.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Merge k Sorted Lists.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="multiplyStrings.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MySqrt.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="NQueens.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PermutaitonII.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Permutation.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="pow.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="remove_dups.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="restore ip address.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Reverse Nodes in k-Group.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="RotateImage.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Scramble String.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Search in Rotated Sorted Array.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Substring with Concatenation of All Words.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="The Skyline Problem.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Two Sum.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ZigZag Conversion.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
+  </PropertyGroup>
+  <Import Condition="Exists($(PtvsTargetsFile))" Project="$(PtvsTargetsFile)" />
+  <Import Condition="!Exists($(PtvsTargetsFile))" Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
