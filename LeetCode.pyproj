@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>05806292-770b-4fe6-af04-9f69e8bff8f4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Contains Duplicate III.py</StartupFile>
+    <StartupFile>Combination Sum IV.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="add_two_numbers.py" />
+    <Compile Include="Combination Sum IV.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Contains Duplicate III.py">
       <SubType>Code</SubType>
     </Compile>
@@ -41,10 +44,19 @@
     <Compile Include="Expression Add Operators.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Find Minimum in Rotated Sorted Array.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="First Missing Positive.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="First Unique Character in a String.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Generate Parentheses.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Insert Delete GetRandom O%281%29 - Duplicates allowed.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Interleaving String.py">
@@ -53,7 +65,19 @@
     <Compile Include="JumpGameII.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Kth Smallest Element in a Sorted Matrix.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Length of Last Word.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Lexicographical Numbers.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Linked List Random Node.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Longest Absolute File Path.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Longest Substring Without Repeating Characters.py">
@@ -66,6 +90,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Merge k Sorted Lists.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Mini Parser.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="multiplyStrings.py">
@@ -86,6 +113,9 @@
     <Compile Include="pow.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Ransom Note.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="remove_dups.py">
       <SubType>Code</SubType>
     </Compile>
@@ -101,7 +131,13 @@
     <Compile Include="Scramble String.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Search For A Range.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Search in Rotated Sorted Array.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Shuffle an Array.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Substring with Concatenation of All Words.py">
